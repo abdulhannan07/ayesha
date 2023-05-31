@@ -20,6 +20,7 @@ import utilities.ReadConfiguration;
 
 public class BaseClass {
 	//verified everything is correct
+	//added second comment
 	public Logger logger;
 
 	ReadConfiguration rd=new ReadConfiguration();
