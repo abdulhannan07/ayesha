@@ -19,7 +19,7 @@ import org.testng.annotations.BeforeClass;
 import utilities.ReadConfiguration;
 
 public class BaseClass {
-	
+	//verified everything is correct
 	public Logger logger;
 
 	ReadConfiguration rd=new ReadConfiguration();
